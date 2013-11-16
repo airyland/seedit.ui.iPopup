@@ -6,7 +6,9 @@
 [![Coverage Status](https://coveralls.io/repos/aralejs/iPopup/badge.png?branch=master)](https://coveralls.io/r/seedit/iPopup)
 
 
-// description
+Fork from zhanxinxu
+
+http://www.zhangxinxu.com/wordpress/?p=1328
 
 ---
 

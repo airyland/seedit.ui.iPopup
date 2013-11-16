@@ -2,13 +2,10 @@
 
 ---
 
-````javascript
-
-````
 <div id="targetBox" style="position:absolute;width:200px;height:30px;border:1px solid red;display:none;">hello world</div>
 
 ````html
- <p><a id="trigger1" href="javascript:;" rel="targetBox">默认rel加载</a></p>
+ <p><a id="trigger1" href="javascript:;" rel="targetBox" style="position:relative;">默认rel加载</a></p>
 
 ````
 ````javascript
@@ -18,7 +15,7 @@ seajs.use('iPopup', function(){
     console.log($("#trigger1"))
     console.log($.fn)
     //通过默认rel属性加载
-   $("#trigger1").powerFloat();
+   $("#trigger1").powerFloat({offsets:{x:0, y:10},eventType:'click'});
    $("#trigger10").powerFloat({
     targetMode: "list"  
 });

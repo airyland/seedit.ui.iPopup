@@ -361,6 +361,12 @@
             if (!this.trigger || !this.target) {
                 return this;
             }
+            // will encounter position problems when target is  not a child of body,
+            var isChildOfBody = $('body').children().index(this.target) !== -1;
+            if (!isChildOfBody) {
+                this.target.appendTo('body');
+            }
+
             var pos, tri_h = 0,
                 tri_w = 0,
                 cor_w = 0,
