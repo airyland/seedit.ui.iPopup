@@ -1,0 +1,27 @@
+{
+  "family": "seedit",
+  "name": "iPopup",
+  "version": "0.0.1",
+  "description": "popup plugin",
+  "homepage": "https://github.com/lizheng/iPopup",
+  "author": "",
+  "maintainers": [
+    "",
+    ""
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lizheng/iPopup.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["iPopup.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
