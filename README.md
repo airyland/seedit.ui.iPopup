@@ -2,8 +2,8 @@
 
 ---
 
-[![Build Status](https://secure.travis-ci.org/aralejs/iPopup.png)](https://travis-ci.org/seedit/iPopup)
-[![Coverage Status](https://coveralls.io/repos/aralejs/iPopup/badge.png?branch=master)](https://coveralls.io/r/seedit/iPopup)
+[![Build Status](https://secure.travis-ci.org/airyland/seedit.ui.iPopup.png)](https://travis-ci.org/airyland/seedit.ui.iPopup)
+[![Coverage Status](https://coveralls.io/repos/airyland/seedit.ui.iPopup/badge.png?branch=master)](https://coveralls.io/r/airyland/seedit.ui.iPopup)
 
 
 Fork from zhanxinxu

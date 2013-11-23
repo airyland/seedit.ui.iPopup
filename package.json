@@ -3,15 +3,12 @@
   "name": "iPopup",
   "version": "0.0.1",
   "description": "popup plugin",
-  "homepage": "https://github.com/lizheng/iPopup",
+  "homepage": "https://github.com/seedit/iPopup",
   "author": "",
-  "maintainers": [
-    "",
-    ""
-  ],
+  "maintainers": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lizheng/iPopup.git"
+    "url": "git://github.com/seedit/iPopup.git"
   },
   "bugs": {
     "url": ""
