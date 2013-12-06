@@ -16,7 +16,7 @@
   "keywords": [],
   "licenses": "MIT",
   "spm": {
-    "output": ["iPopup.js"],
+    "output": ["iPopup.js","iPopup.css"],
     "alias": {},
     "devAlias": {},
     "engines": {}
